@@ -2,5 +2,5 @@
 POCKET MORTYS FOREVER BABYYYYYYYY! DECOMPILED POCKET MORTYYYYYYYYYYYYYSSSSS. YEAH!
 
 
-idk if it fully works but from what I can tell the game's buggy stuff in the unity editor is because it's trying to run android code. I couldn't figure out how to make it work, but it seems like atleast having this up would be useful for preservation.
-also if you're gonna use it you'll have to credit me.
+I'm just gonna upload this as it is now because I've spent a week trying to fix everything but no matter what I do 
+IT WON'T WORK... Maybe someone more talented can make it work. Just credit me please. Unity 5.5.2p4 recommended for this.
